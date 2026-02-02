@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GuruBro Terms of Service</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #222;
+      max-width: 820px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    p {
+      margin: 12px 0;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    li {
+      margin: 6px 0;
+    }
+    small {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Terms of Service</h1>
+<small>Last updated: February 2026</small>
+
+<p>
+Welcome to GuruBro. By using the GuruBro mobile application, you agree to these Terms of Service.
+If you do not agree, please do not use the app.
+</p>
+
+<h2>1. Eligibility</h2>
+
+<p>
+GuruBro is intended for users aged 18 and above. By using the app, you confirm that you meet this requirement.
+</p>
+
+<h2>2. Nature of the Service</h2>
+
+<p>
+GuruBro provides AI-powered guidance, analysis, and suggestions related to communication, style, grooming, and dating profiles.
+</p>
+
+<p>
+All content provided by GuruBro is for <strong>informational and educational purposes only</strong>.
+It does not constitute professional, medical, psychological, or legal advice.
+</p>
+
+<h2>3. User Content</h2>
+
+<p>
+You may choose to submit text messages and photos to receive analysis and feedback.
+</p>
+
+<ul>
+  <li>You retain ownership of your content</li>
+  <li>You grant GuruBro permission to process this content solely to provide the requested features</li>
+  <li>You are responsible for the content you submit</li>
+</ul>
+
+<h2>4. Photo Usage</h2>
+
+<p>
+Photos uploaded to GuruBro are:
+</p>
+
+<ul>
+  <li>Optional</li>
+  <li>Used only for analysis requested by you</li>
+  <li>Stored temporarily and deleted shortly after processing</li>
+</ul>
+
+<h2>5. AI-Generated Content</h2>
+
+<p>
+GuruBro uses artificial intelligence to generate responses and suggestions.
+</p>
+
+<p>
+AI outputs may be imperfect and should be interpreted with personal judgment.
+You agree that GuruBro is not responsible for decisions made based on AI-generated content.
+</p>
+
+<h2>6. Acceptable Use</h2>
+
+<p>
+You agree not to:
+</p>
+
+<ul>
+  <li>Use the app for illegal purposes</li>
+  <li>Upload harmful, abusive, or explicit content</li>
+  <li>Attempt to reverse engineer or misuse the service</li>
+</ul>
+
+<h2>7. Termination</h2>
+
+<p>
+We reserve the right to suspend or terminate access to the app if these terms are violated.
+</p>
+
+<h2>8. Limitation of Liability</h2>
+
+<p>
+To the maximum extent permitted by law, GuruBro is not liable for indirect, incidental, or consequential damages arising from use of the app.
+</p>
+
+<h2>9. Changes to These Terms</h2>
+
+<p>
+We may update these Terms from time to time. Continued use of the app indicates acceptance of the updated terms.
+</p>
+
+<h2>10. Contact</h2>
+
+<p>
+For questions regarding these Terms, contact:
+</p>
+
+<p>
+<strong>Email:</strong> founder@hoplittlebunny.com
+</p>
+
+</body>
+</html>
